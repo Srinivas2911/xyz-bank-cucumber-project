@@ -1,0 +1,163 @@
+2020-04-26 20:04:238 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 20:04:963 INFO  HomePage :33 - Clicking on Manager Login Tab: [[ChromeDriver: chrome on WINDOWS (ef216893d4aa6fff0e99fc8c781ea2c4)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-26 20:04:365 INFO  BankManagerLoginPage :43 - Clicking on Add Customer Tab: [[ChromeDriver: chrome on WINDOWS (ef216893d4aa6fff0e99fc8c781ea2c4)] -> xpath: //button[contains(text(),'Add Customer')]]
+2020-04-26 20:04:50 INFO  AddCustomerPage :43 - Entering First Name :  Harry on First Name Field [[ChromeDriver: chrome on WINDOWS (ef216893d4aa6fff0e99fc8c781ea2c4)] -> xpath: //input[@placeholder='First Name']]
+2020-04-26 20:04:482 INFO  AddCustomerPage :51 - Entering Last Name :  Porter on Last Name Field [[ChromeDriver: chrome on WINDOWS (ef216893d4aa6fff0e99fc8c781ea2c4)] -> xpath: //input[@placeholder='Last Name']]
+2020-04-26 20:04:844 INFO  AddCustomerPage :58 - Entering postcode : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (ef216893d4aa6fff0e99fc8c781ea2c4)] -> xpath: //input[@placeholder='Post Code']]
+2020-04-26 20:04:898 INFO  AddCustomerPage :63 - Clicking on Add Customer Button : [[ChromeDriver: chrome on WINDOWS (ef216893d4aa6fff0e99fc8c781ea2c4)] -> xpath: //button[@class='btn btn-default']]
+2020-04-26 20:04:304 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 20:04:291 INFO  HomePage :33 - Clicking on Manager Login Tab: [[ChromeDriver: chrome on WINDOWS (905a36ae9090b922c106c15540424e5b)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-26 20:04:643 INFO  BankManagerLoginPage :43 - Clicking on Add Customer Tab: [[ChromeDriver: chrome on WINDOWS (905a36ae9090b922c106c15540424e5b)] -> xpath: //button[contains(text(),'Add Customer')]]
+2020-04-26 20:04:267 INFO  AddCustomerPage :43 - Entering First Name :  Harry on First Name Field [[ChromeDriver: chrome on WINDOWS (905a36ae9090b922c106c15540424e5b)] -> xpath: //input[@placeholder='First Name']]
+2020-04-26 20:04:611 INFO  AddCustomerPage :51 - Entering Last Name :  Porter on Last Name Field [[ChromeDriver: chrome on WINDOWS (905a36ae9090b922c106c15540424e5b)] -> xpath: //input[@placeholder='Last Name']]
+2020-04-26 20:04:90 INFO  AddCustomerPage :58 - Entering postcode : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (905a36ae9090b922c106c15540424e5b)] -> xpath: //input[@placeholder='Post Code']]
+2020-04-26 20:04:131 INFO  AddCustomerPage :63 - Clicking on Add Customer Button : [[ChromeDriver: chrome on WINDOWS (905a36ae9090b922c106c15540424e5b)] -> xpath: //button[@class='btn btn-default']]
+2020-04-26 20:04:882 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 20:04:38 INFO  HomePage :33 - Clicking on Manager Login Tab: [[ChromeDriver: chrome on WINDOWS (0fa4e34e399a5e2e4e6f671ef66a31d1)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-26 20:04:436 INFO  BankManagerLoginPage :43 - Clicking on Add Customer Tab: [[ChromeDriver: chrome on WINDOWS (0fa4e34e399a5e2e4e6f671ef66a31d1)] -> xpath: //button[contains(text(),'Add Customer')]]
+2020-04-26 20:04:319 INFO  AddCustomerPage :43 - Entering First Name :  Harry on First Name Field [[ChromeDriver: chrome on WINDOWS (0fa4e34e399a5e2e4e6f671ef66a31d1)] -> xpath: //input[@placeholder='First Name']]
+2020-04-26 20:04:702 INFO  AddCustomerPage :51 - Entering Last Name :  Porter on Last Name Field [[ChromeDriver: chrome on WINDOWS (0fa4e34e399a5e2e4e6f671ef66a31d1)] -> xpath: //input[@placeholder='Last Name']]
+2020-04-26 20:04:105 INFO  AddCustomerPage :58 - Entering postcode : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (0fa4e34e399a5e2e4e6f671ef66a31d1)] -> xpath: //input[@placeholder='Post Code']]
+2020-04-26 20:04:161 INFO  AddCustomerPage :63 - Clicking on Add Customer Button : [[ChromeDriver: chrome on WINDOWS (0fa4e34e399a5e2e4e6f671ef66a31d1)] -> xpath: //button[@class='btn btn-default']]
+2020-04-26 22:04:126 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 22:04:315 INFO  HomePage :31 - Clicking on Manager Login Tab: [[ChromeDriver: chrome on WINDOWS (faa902bc0c1aaa4f6feef4167b40a544)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-26 22:04:850 INFO  BankManagerLoginPage :43 - Clicking on Add Customer Tab: [[ChromeDriver: chrome on WINDOWS (faa902bc0c1aaa4f6feef4167b40a544)] -> xpath: //button[contains(text(),'Add Customer')]]
+2020-04-26 22:04:102 INFO  AddCustomerPage :43 - Entering First Name :  Harry on First Name Field [[ChromeDriver: chrome on WINDOWS (faa902bc0c1aaa4f6feef4167b40a544)] -> xpath: //input[@placeholder='First Name']]
+2020-04-26 22:04:420 INFO  AddCustomerPage :51 - Entering Last Name :  Porter on Last Name Field [[ChromeDriver: chrome on WINDOWS (faa902bc0c1aaa4f6feef4167b40a544)] -> xpath: //input[@placeholder='Last Name']]
+2020-04-26 22:04:791 INFO  AddCustomerPage :58 - Entering postcode : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (faa902bc0c1aaa4f6feef4167b40a544)] -> xpath: //input[@placeholder='Post Code']]
+2020-04-26 22:04:840 INFO  AddCustomerPage :63 - Clicking on Add Customer Button : [[ChromeDriver: chrome on WINDOWS (faa902bc0c1aaa4f6feef4167b40a544)] -> xpath: //button[@class='btn btn-default']]
+2020-04-26 22:04:830 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 22:04:388 INFO  HomePage :31 - Clicking on Manager Login Tab: [[ChromeDriver: chrome on WINDOWS (de154bbbccd160d9dd6dea8ebedabe0a)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-26 22:04:807 INFO  BankManagerLoginPage :53 - Clicking on Customers Tab: [[ChromeDriver: chrome on WINDOWS (de154bbbccd160d9dd6dea8ebedabe0a)] -> xpath: //button[contains(text(),'Customers')]]
+2020-04-26 22:04:25 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 22:04:920 INFO  HomePage :31 - Clicking on Manager Login Tab: [[ChromeDriver: chrome on WINDOWS (ea73229dd596a9a4e6006a5b6bc9ae26)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-26 22:04:305 INFO  BankManagerLoginPage :43 - Clicking on Add Customer Tab: [[ChromeDriver: chrome on WINDOWS (ea73229dd596a9a4e6006a5b6bc9ae26)] -> xpath: //button[contains(text(),'Add Customer')]]
+2020-04-26 22:04:910 INFO  AddCustomerPage :43 - Entering First Name :  Harry on First Name Field [[ChromeDriver: chrome on WINDOWS (ea73229dd596a9a4e6006a5b6bc9ae26)] -> xpath: //input[@placeholder='First Name']]
+2020-04-26 22:04:253 INFO  AddCustomerPage :51 - Entering Last Name :  Porter on Last Name Field [[ChromeDriver: chrome on WINDOWS (ea73229dd596a9a4e6006a5b6bc9ae26)] -> xpath: //input[@placeholder='Last Name']]
+2020-04-26 22:04:672 INFO  AddCustomerPage :58 - Entering postcode : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (ea73229dd596a9a4e6006a5b6bc9ae26)] -> xpath: //input[@placeholder='Post Code']]
+2020-04-26 22:04:718 INFO  AddCustomerPage :63 - Clicking on Add Customer Button : [[ChromeDriver: chrome on WINDOWS (ea73229dd596a9a4e6006a5b6bc9ae26)] -> xpath: //button[@class='btn btn-default']]
+2020-04-26 22:04:377 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 22:04:224 INFO  HomePage :31 - Clicking on Manager Login Tab: [[ChromeDriver: chrome on WINDOWS (4fff1e833411e1090cfdd8f9f3e99d17)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-26 22:04:605 INFO  BankManagerLoginPage :53 - Clicking on Customers Tab: [[ChromeDriver: chrome on WINDOWS (4fff1e833411e1090cfdd8f9f3e99d17)] -> xpath: //button[contains(text(),'Customers')]]
+2020-04-26 22:04:123 INFO  CustomerDetailsPage :32 - Finding Customer by First Name : Harry On Search Customer Field [[ChromeDriver: chrome on WINDOWS (4fff1e833411e1090cfdd8f9f3e99d17)] -> xpath: //input[@placeholder='Search Customer']]
+2020-04-26 22:04:496 INFO  CustomerDetailsPage :37 -  Clicking on Delete Customer Button : Proxy element for: DefaultElementLocator 'By.xpath: //button[contains(text(),'Delete')]'
+2020-04-26 22:04:538 INFO  CustomerDetailsPage :42 - Verifying Customer Name is Not Displayed: [[ChromeDriver: chrome on WINDOWS (4fff1e833411e1090cfdd8f9f3e99d17)] -> xpath: //body[@class='ng-scope']/div[@class='ng-scope']/div[@class='container-fluid ng-scope']/div[@class='ng-scope']/div[@class='border box padT20 ng-scope']/div[@class='ng-scope']/div[@class='marTop ng-scope']/div[1]]
+2020-04-26 23:04:669 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 23:04:89 INFO  HomePage :31 - Clicking on Manager Login Tab: [[ChromeDriver: chrome on WINDOWS (0461336ea851ab42ab4f1dc22e40712c)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-26 23:04:748 INFO  BankManagerLoginPage :43 - Clicking on Add Customer Tab: [[ChromeDriver: chrome on WINDOWS (0461336ea851ab42ab4f1dc22e40712c)] -> xpath: //button[contains(text(),'Add Customer')]]
+2020-04-26 23:04:223 INFO  AddCustomerPage :43 - Entering First Name :  Harry on First Name Field [[ChromeDriver: chrome on WINDOWS (0461336ea851ab42ab4f1dc22e40712c)] -> xpath: //input[@placeholder='First Name']]
+2020-04-26 23:04:785 INFO  AddCustomerPage :51 - Entering Last Name :  Porter on Last Name Field [[ChromeDriver: chrome on WINDOWS (0461336ea851ab42ab4f1dc22e40712c)] -> xpath: //input[@placeholder='Last Name']]
+2020-04-26 23:04:299 INFO  AddCustomerPage :58 - Entering postcode : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (0461336ea851ab42ab4f1dc22e40712c)] -> xpath: //input[@placeholder='Post Code']]
+2020-04-26 23:04:365 INFO  AddCustomerPage :63 - Clicking on Add Customer Button : [[ChromeDriver: chrome on WINDOWS (0461336ea851ab42ab4f1dc22e40712c)] -> xpath: //button[@class='btn btn-default']]
+2020-04-26 23:04:567 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 23:04:600 INFO  HomePage :31 - Clicking on Manager Login Tab: [[ChromeDriver: chrome on WINDOWS (6aaebea6182fd2e0d2c42940e89b337c)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-26 23:04:86 INFO  BankManagerLoginPage :53 - Clicking on Customers Tab: [[ChromeDriver: chrome on WINDOWS (6aaebea6182fd2e0d2c42940e89b337c)] -> xpath: //button[contains(text(),'Customers')]]
+2020-04-26 23:04:770 INFO  CustomerDetailsPage :32 - Finding Customer by First Name : Harry On Search Customer Field [[ChromeDriver: chrome on WINDOWS (6aaebea6182fd2e0d2c42940e89b337c)] -> xpath: //input[@placeholder='Search Customer']]
+2020-04-26 23:04:198 INFO  CustomerDetailsPage :37 -  Clicking on Delete Customer Button : Proxy element for: DefaultElementLocator 'By.xpath: //button[contains(text(),'Delete')]'
+2020-04-26 23:04:300 INFO  CustomerDetailsPage :42 - Verifying Customer Name is Not Displayed: [[ChromeDriver: chrome on WINDOWS (6aaebea6182fd2e0d2c42940e89b337c)] -> xpath: //body[@class='ng-scope']/div[@class='ng-scope']/div[@class='container-fluid ng-scope']/div[@class='ng-scope']/div[@class='border box padT20 ng-scope']/div[@class='ng-scope']/div[@class='marTop ng-scope']/div[1]]
+2020-04-26 23:04:87 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 23:04:58 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 23:04:785 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (3b040da71fb0b2e3dd4b4b9416668b7b)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-26 23:04:960 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 23:04:508 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (da59b9cf4cb9e59c96d9650b155c4bf7)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-26 23:04:39 INFO  CustomerLoginPage :39 - Clicking on Your Name Field : [[ChromeDriver: chrome on WINDOWS (da59b9cf4cb9e59c96d9650b155c4bf7)] -> xpath: //select[@name='userSelect']]
+2020-04-26 23:04:814 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 23:04:674 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (d87e2a942d42cb3da128e6c012b9b901)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-26 23:04:209 INFO  CustomerLoginPage :39 - Clicking on Your Name Field : [[ChromeDriver: chrome on WINDOWS (d87e2a942d42cb3da128e6c012b9b901)] -> xpath: //select[@name='userSelect']]
+2020-04-26 23:04:374 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 23:04:144 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (2e1163b34ce521c4a9db65eb5937f6d5)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-26 23:04:663 INFO  CustomerLoginPage :39 - Clicking on Your Name Field : [[ChromeDriver: chrome on WINDOWS (2e1163b34ce521c4a9db65eb5937f6d5)] -> xpath: //select[@name='userSelect']]
+2020-04-26 23:04:64 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 23:04:674 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (3ad30ab8d431bac79fe424739ee210a0)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-26 23:04:729 INFO  CustomerLoginPage :39 - Clicking on Your Name Field : [[ChromeDriver: chrome on WINDOWS (3ad30ab8d431bac79fe424739ee210a0)] -> xpath: //select[@name='userSelect']]
+2020-04-26 23:04:791 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 23:04:375 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (6f308330429387a5fe2fda884ffdb845)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-26 23:04:946 INFO  CustomerLoginPage :39 - Clicking on Your Name Field : [[ChromeDriver: chrome on WINDOWS (6f308330429387a5fe2fda884ffdb845)] -> id: userSelect]
+2020-04-26 23:04:647 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-26 23:04:159 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (9547611944e045a812af34fc0fe6df80)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-26 23:04:722 INFO  CustomerLoginPage :39 - Clicking on Your Name Field : [[ChromeDriver: chrome on WINDOWS (9547611944e045a812af34fc0fe6df80)] -> id: userSelect]
+2020-04-27 00:04:966 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-27 00:04:658 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (23d92ef1a758ab715f040490bdc56d89)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-27 00:04:621 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-27 00:04:960 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (577979389cbb7dcd4e69e13048422b1a)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-27 00:04:840 INFO  CustomerLoginPage :45 - Selecting Name of Customer from DropDown  : Ron Weasly Your Name Field [[ChromeDriver: chrome on WINDOWS (577979389cbb7dcd4e69e13048422b1a)] -> id: userSelect]
+2020-04-27 00:04:12 INFO  CustomerLoginPage :61 - Clicking on Customer Login Button : [[ChromeDriver: chrome on WINDOWS (577979389cbb7dcd4e69e13048422b1a)] -> id: userSelect]
+2020-04-27 00:04:354 INFO  CustomerPage :34 - Getting Customer Log Out Text: [[ChromeDriver: chrome on WINDOWS (577979389cbb7dcd4e69e13048422b1a)] -> xpath: //button[@class='btn logout']]
+2020-04-27 00:04:422 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-27 00:04:435 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (b512aad8592b14b3d23d0d40e2dcecc0)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-27 00:04:332 INFO  CustomerLoginPage :45 - Selecting Name of Customer from DropDown  : Ron Weasly Your Name Field [[ChromeDriver: chrome on WINDOWS (b512aad8592b14b3d23d0d40e2dcecc0)] -> id: userSelect]
+2020-04-27 00:04:483 INFO  CustomerLoginPage :61 - Clicking on Customer Login Button : [[ChromeDriver: chrome on WINDOWS (b512aad8592b14b3d23d0d40e2dcecc0)] -> id: userSelect]
+2020-04-27 00:04:812 INFO  CustomerPage :34 - Getting Customer Log Out Text: [[ChromeDriver: chrome on WINDOWS (b512aad8592b14b3d23d0d40e2dcecc0)] -> xpath: //button[@class='btn logout']]
+2020-04-27 00:04:49 INFO  CustomerPage :47 - Clicking on Customer Log Out Button : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn logout']'
+2020-04-27 00:04:85 INFO  CustomerLoginPage :54 -  Getting Your Name Text : [[ChromeDriver: chrome on WINDOWS (b512aad8592b14b3d23d0d40e2dcecc0)] -> xpath: //label[contains(text(),'Your Name :')]]
+2020-04-27 00:04:870 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-27 00:04:38 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (df3ec0a24af7e622865e3f71ae1a327a)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-27 00:04:816 INFO  CustomerLoginPage :45 - Selecting Name of Customer from DropDown  : Ron Weasly Your Name Field [[ChromeDriver: chrome on WINDOWS (df3ec0a24af7e622865e3f71ae1a327a)] -> id: userSelect]
+2020-04-27 00:04:36 INFO  CustomerLoginPage :61 - Clicking on Customer Login Button : [[ChromeDriver: chrome on WINDOWS (df3ec0a24af7e622865e3f71ae1a327a)] -> id: userSelect]
+2020-04-27 00:04:573 INFO  CustomerPage :34 - Getting Customer Log Out Text: [[ChromeDriver: chrome on WINDOWS (df3ec0a24af7e622865e3f71ae1a327a)] -> xpath: //button[@class='btn logout']]
+2020-04-27 00:04:810 INFO  CustomerPage :47 - Clicking on Customer Log Out Button : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn logout']'
+2020-04-27 00:04:895 INFO  CustomerLoginPage :54 -  Getting Your Name Text : [[ChromeDriver: chrome on WINDOWS (df3ec0a24af7e622865e3f71ae1a327a)] -> xpath: //label[contains(text(),'Your Name :')]]
+2020-04-27 00:04:730 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-27 00:04:605 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (d8cb1eb25341da5a21af1bd45c3cc550)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-27 00:04:307 INFO  CustomerLoginPage :45 - Selecting Name of Customer from DropDown  : Ron Weasly Your Name Field [[ChromeDriver: chrome on WINDOWS (d8cb1eb25341da5a21af1bd45c3cc550)] -> id: userSelect]
+2020-04-27 00:04:658 INFO  CustomerLoginPage :61 - Clicking on Customer Login Button : [[ChromeDriver: chrome on WINDOWS (d8cb1eb25341da5a21af1bd45c3cc550)] -> id: userSelect]
+2020-04-27 00:04:45 INFO  AccountPage :55 - Clicking on Deposit Tab: [[ChromeDriver: chrome on WINDOWS (d8cb1eb25341da5a21af1bd45c3cc550)] -> xpath: //button[contains(text(),'Deposit')]]
+2020-04-27 00:04:569 INFO  AccountPage :62 - Entering deposit amount : 100 On Deposit Amount Field [[ChromeDriver: chrome on WINDOWS (d8cb1eb25341da5a21af1bd45c3cc550)] -> xpath: //input[@placeholder='amount']]
+2020-04-27 00:04:724 INFO  AccountPage :68 - Clicking on Deposit Button: [[ChromeDriver: chrome on WINDOWS (d8cb1eb25341da5a21af1bd45c3cc550)] -> xpath: //button[@class='btn btn-default']]
+2020-04-27 00:04:896 INFO  AccountPage :80 - Verifying Deposit Success Text: [[ChromeDriver: chrome on WINDOWS (d8cb1eb25341da5a21af1bd45c3cc550)] -> xpath: //span[@class='error ng-binding']]
+2020-04-27 00:04:238 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-27 00:04:963 INFO  HomePage :31 - Clicking on Manager Login Tab: [[ChromeDriver: chrome on WINDOWS (9b3fb3d39bf8d84591aa416eae924035)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-27 00:04:377 INFO  BankManagerLoginPage :43 - Clicking on Add Customer Tab: [[ChromeDriver: chrome on WINDOWS (9b3fb3d39bf8d84591aa416eae924035)] -> xpath: //button[contains(text(),'Add Customer')]]
+2020-04-27 00:04:921 INFO  AddCustomerPage :43 - Entering First Name :  Ron on First Name Field [[ChromeDriver: chrome on WINDOWS (9b3fb3d39bf8d84591aa416eae924035)] -> xpath: //input[@placeholder='First Name']]
+2020-04-27 00:04:294 INFO  AddCustomerPage :51 - Entering Last Name :  Weasly on Last Name Field [[ChromeDriver: chrome on WINDOWS (9b3fb3d39bf8d84591aa416eae924035)] -> xpath: //input[@placeholder='Last Name']]
+2020-04-27 00:04:607 INFO  AddCustomerPage :58 - Entering postcode : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (9b3fb3d39bf8d84591aa416eae924035)] -> xpath: //input[@placeholder='Post Code']]
+2020-04-27 00:04:647 INFO  AddCustomerPage :63 - Clicking on Add Customer Button : [[ChromeDriver: chrome on WINDOWS (9b3fb3d39bf8d84591aa416eae924035)] -> xpath: //button[@class='btn btn-default']]
+2020-04-27 00:04:836 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-27 00:04:277 INFO  HomePage :31 - Clicking on Manager Login Tab: [[ChromeDriver: chrome on WINDOWS (96ca83e5116a283762d2194783d19a2f)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-27 00:04:635 INFO  BankManagerLoginPage :53 - Clicking on Customers Tab: [[ChromeDriver: chrome on WINDOWS (96ca83e5116a283762d2194783d19a2f)] -> xpath: //button[contains(text(),'Customers')]]
+2020-04-27 00:04:217 INFO  CustomerDetailsPage :32 - Finding Customer by First Name :  Ron On Search Customer Field [[ChromeDriver: chrome on WINDOWS (96ca83e5116a283762d2194783d19a2f)] -> xpath: //input[@placeholder='Search Customer']]
+2020-04-27 00:04:509 INFO  CustomerDetailsPage :37 -  Clicking on Delete Customer Button : Proxy element for: DefaultElementLocator 'By.xpath: //button[contains(text(),'Delete')]'
+2020-04-27 00:04:558 INFO  CustomerDetailsPage :42 - Verifying Customer Name is Not Displayed: [[ChromeDriver: chrome on WINDOWS (96ca83e5116a283762d2194783d19a2f)] -> xpath: //body[@class='ng-scope']/div[@class='ng-scope']/div[@class='container-fluid ng-scope']/div[@class='ng-scope']/div[@class='border box padT20 ng-scope']/div[@class='ng-scope']/div[@class='marTop ng-scope']/div[1]]
+2020-04-27 00:04:623 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-27 00:04:526 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (93e808737892e29c94b3bb3a4d898052)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-27 00:04:326 INFO  CustomerLoginPage :45 - Selecting Name of Customer from DropDown  : Ron Weasly Your Name Field [[ChromeDriver: chrome on WINDOWS (93e808737892e29c94b3bb3a4d898052)] -> id: userSelect]
+2020-04-27 00:04:521 INFO  CustomerLoginPage :61 - Clicking on Customer Login Button : [[ChromeDriver: chrome on WINDOWS (93e808737892e29c94b3bb3a4d898052)] -> id: userSelect]
+2020-04-27 00:04:835 INFO  CustomerPage :34 - Getting Customer Log Out Text: [[ChromeDriver: chrome on WINDOWS (93e808737892e29c94b3bb3a4d898052)] -> xpath: //button[@class='btn logout']]
+2020-04-27 00:04:42 INFO  CustomerPage :47 - Clicking on Customer Log Out Button : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn logout']'
+2020-04-27 00:04:102 INFO  CustomerLoginPage :54 -  Getting Your Name Text : [[ChromeDriver: chrome on WINDOWS (93e808737892e29c94b3bb3a4d898052)] -> xpath: //label[contains(text(),'Your Name :')]]
+2020-04-27 00:04:60 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-27 00:04:226 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (356f640d80c58cdb5c037597a36b9651)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-27 00:04:905 INFO  CustomerLoginPage :45 - Selecting Name of Customer from DropDown  : Ron Weasly Your Name Field [[ChromeDriver: chrome on WINDOWS (356f640d80c58cdb5c037597a36b9651)] -> id: userSelect]
+2020-04-27 00:04:178 INFO  CustomerLoginPage :61 - Clicking on Customer Login Button : [[ChromeDriver: chrome on WINDOWS (356f640d80c58cdb5c037597a36b9651)] -> id: userSelect]
+2020-04-27 00:04:589 INFO  AccountPage :55 - Clicking on Deposit Tab: [[ChromeDriver: chrome on WINDOWS (356f640d80c58cdb5c037597a36b9651)] -> xpath: //button[contains(text(),'Deposit')]]
+2020-04-27 00:04:82 INFO  AccountPage :62 - Entering deposit amount : 100 On Deposit Amount Field [[ChromeDriver: chrome on WINDOWS (356f640d80c58cdb5c037597a36b9651)] -> xpath: //input[@placeholder='amount']]
+2020-04-27 00:04:218 INFO  AccountPage :68 - Clicking on Deposit Button: [[ChromeDriver: chrome on WINDOWS (356f640d80c58cdb5c037597a36b9651)] -> xpath: //button[@class='btn btn-default']]
+2020-04-27 00:04:319 INFO  AccountPage :80 - Verifying Deposit Success Text: [[ChromeDriver: chrome on WINDOWS (356f640d80c58cdb5c037597a36b9651)] -> xpath: //span[@class='error ng-binding']]
+2020-04-29 00:04:461 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 00:04:214 INFO  HomePage :31 - Clicking on Manager Login Tab: [[ChromeDriver: chrome on WINDOWS (ce28137c7375006a05cada412f0cdbe5)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-29 00:04:683 INFO  BankManagerLoginPage :43 - Clicking on Add Customer Tab: [[ChromeDriver: chrome on WINDOWS (ce28137c7375006a05cada412f0cdbe5)] -> xpath: //button[contains(text(),'Add Customer')]]
+2020-04-29 00:04:296 INFO  AddCustomerPage :43 - Entering First Name :  Ron on First Name Field [[ChromeDriver: chrome on WINDOWS (ce28137c7375006a05cada412f0cdbe5)] -> xpath: //input[@placeholder='First Name']]
+2020-04-29 00:04:810 INFO  AddCustomerPage :51 - Entering Last Name :  Weasly on Last Name Field [[ChromeDriver: chrome on WINDOWS (ce28137c7375006a05cada412f0cdbe5)] -> xpath: //input[@placeholder='Last Name']]
+2020-04-29 00:04:134 INFO  AddCustomerPage :58 - Entering postcode : HA6 1NW on Postcode Field [[ChromeDriver: chrome on WINDOWS (ce28137c7375006a05cada412f0cdbe5)] -> xpath: //input[@placeholder='Post Code']]
+2020-04-29 00:04:195 INFO  AddCustomerPage :63 - Clicking on Add Customer Button : [[ChromeDriver: chrome on WINDOWS (ce28137c7375006a05cada412f0cdbe5)] -> xpath: //button[@class='btn btn-default']]
+2020-04-29 00:04:680 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 00:04:751 INFO  HomePage :31 - Clicking on Manager Login Tab: [[ChromeDriver: chrome on WINDOWS (ea4611e0ccf5bcddbacc67f5aab423db)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-29 00:04:228 INFO  BankManagerLoginPage :53 - Clicking on Customers Tab: [[ChromeDriver: chrome on WINDOWS (ea4611e0ccf5bcddbacc67f5aab423db)] -> xpath: //button[contains(text(),'Customers')]]
+2020-04-29 00:04:168 INFO  CustomerDetailsPage :32 - Finding Customer by First Name :  Ron On Search Customer Field [[ChromeDriver: chrome on WINDOWS (ea4611e0ccf5bcddbacc67f5aab423db)] -> xpath: //input[@placeholder='Search Customer']]
+2020-04-29 00:04:428 INFO  CustomerDetailsPage :37 -  Clicking on Delete Customer Button : Proxy element for: DefaultElementLocator 'By.xpath: //button[contains(text(),'Delete')]'
+2020-04-29 00:04:491 INFO  CustomerDetailsPage :42 - Verifying Customer Name is Not Displayed: [[ChromeDriver: chrome on WINDOWS (ea4611e0ccf5bcddbacc67f5aab423db)] -> xpath: //body[@class='ng-scope']/div[@class='ng-scope']/div[@class='container-fluid ng-scope']/div[@class='ng-scope']/div[@class='border box padT20 ng-scope']/div[@class='ng-scope']/div[@class='marTop ng-scope']/div[1]]
+2020-04-29 00:04:102 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 00:04:791 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (31dc0534cbdf9cb4d7dd962bfbecfe00)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-29 00:04:965 INFO  CustomerLoginPage :45 - Selecting Name of Customer from DropDown  : Ron Weasly Your Name Field [[ChromeDriver: chrome on WINDOWS (31dc0534cbdf9cb4d7dd962bfbecfe00)] -> id: userSelect]
+2020-04-29 00:04:477 INFO  CustomerLoginPage :61 - Clicking on Customer Login Button : [[ChromeDriver: chrome on WINDOWS (31dc0534cbdf9cb4d7dd962bfbecfe00)] -> id: userSelect]
+2020-04-29 00:04:679 INFO  CustomerPage :34 - Getting Customer Log Out Text: [[ChromeDriver: chrome on WINDOWS (31dc0534cbdf9cb4d7dd962bfbecfe00)] -> xpath: //button[@class='btn logout']]
+2020-04-29 00:04:16 INFO  CustomerPage :47 - Clicking on Customer Log Out Button : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='btn logout']'
+2020-04-29 00:04:61 INFO  CustomerLoginPage :54 -  Getting Your Name Text : [[ChromeDriver: chrome on WINDOWS (31dc0534cbdf9cb4d7dd962bfbecfe00)] -> xpath: //label[contains(text(),'Your Name :')]]
+2020-04-29 00:04:617 INFO  BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 00:04:300 INFO  HomePage :37 - Clicking on Customer Login Tab: [[ChromeDriver: chrome on WINDOWS (0b0cca7bf63c9ccd42c52dc043f2c310)] -> xpath: //button[contains(text(),'Customer Login')]]
+2020-04-29 00:04:259 INFO  CustomerLoginPage :45 - Selecting Name of Customer from DropDown  : Ron Weasly Your Name Field [[ChromeDriver: chrome on WINDOWS (0b0cca7bf63c9ccd42c52dc043f2c310)] -> id: userSelect]
+2020-04-29 00:04:490 INFO  CustomerLoginPage :61 - Clicking on Customer Login Button : [[ChromeDriver: chrome on WINDOWS (0b0cca7bf63c9ccd42c52dc043f2c310)] -> id: userSelect]
+2020-04-29 00:04:977 INFO  AccountPage :55 - Clicking on Deposit Tab: [[ChromeDriver: chrome on WINDOWS (0b0cca7bf63c9ccd42c52dc043f2c310)] -> xpath: //button[contains(text(),'Deposit')]]
+2020-04-29 00:04:643 INFO  AccountPage :62 - Entering deposit amount : 100 On Deposit Amount Field [[ChromeDriver: chrome on WINDOWS (0b0cca7bf63c9ccd42c52dc043f2c310)] -> xpath: //input[@placeholder='amount']]
+2020-04-29 00:04:942 INFO  AccountPage :68 - Clicking on Deposit Button: [[ChromeDriver: chrome on WINDOWS (0b0cca7bf63c9ccd42c52dc043f2c310)] -> xpath: //button[@class='btn btn-default']]
+2020-04-29 00:04:119 INFO  AccountPage :80 - Verifying Deposit Success Text: [[ChromeDriver: chrome on WINDOWS (0b0cca7bf63c9ccd42c52dc043f2c310)] -> xpath: //span[@class='error ng-binding']]

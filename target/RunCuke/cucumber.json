@@ -1,0 +1,564 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 16380713400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Verify Bank Manager Should Add Customer Successfully",
+        "description": "",
+        "id": "bank-manager-login-functionality;verify-bank-manager-should-add-customer-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 1249299900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 333464300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on Home page",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1076227700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click On Bank Manager Login Tab",
+            "match": {
+              "location": "MyStepdefs.iClickOnBankManagerLoginTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 464984400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click On Add Customer Tab",
+            "match": {
+              "location": "MyStepdefs.iClickOnAddCustomerTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 605558500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter FirstName \" Ron\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": " Ron",
+                  "offset": 19
+                }
+              ],
+              "location": "MyStepdefs.iEnterFirstName(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 509303000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I enter LastName  \" Weasly\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": " Weasly",
+                  "offset": 19
+                }
+              ],
+              "location": "MyStepdefs.iEnterLastName(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 320250900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I enter PostCode \"HA6 1NW\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "HA6 1NW",
+                  "offset": 18
+                }
+              ],
+              "location": "MyStepdefs.iEnterPostCode(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 175316600,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click On Add Customer Button",
+            "match": {
+              "location": "MyStepdefs.iClickOnAddCustomerButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 45716200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "popUp Displays",
+            "match": {
+              "location": "MyStepdefs.popupDisplays()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12740300,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I can verify Customer added successfully message",
+            "match": {
+              "location": "MyStepdefs.iCanVerifyCustomerAddedSuccessfullyMessage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 16682200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on OK button on popup.",
+            "match": {
+              "location": "MyStepdefs.iClickOnOKButtonOnPopup()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12892972400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "Verify Bank Manager Should Delete Customer Successfully",
+        "description": "",
+        "id": "bank-manager-login-functionality;verify-bank-manager-should-delete-customer-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 1517179000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3003400,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I am on Home page",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1186207100,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I click On Bank Manager Login Tab",
+            "match": {
+              "location": "MyStepdefs.iClickOnBankManagerLoginTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 468299600,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I click on Customers Tab",
+            "match": {
+              "location": "MyStepdefs.iClickOnCustomersTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 938720200,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I search customer by \" Ron\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": " Ron",
+                  "offset": 22
+                }
+              ],
+              "location": "MyStepdefs.iSearchCustomerBy(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10255149800,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I click on Delete button",
+            "match": {
+              "location": "MyStepdefs.iClickOnDeleteButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 133670900,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "verify Customer is Deleted Successfully",
+            "match": {
+              "location": "MyStepdefs.verifyCustomerIsDeletedSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Bank Manager Login Functionality",
+    "description": "\r\nAs a User I want to add or delete customer on Bank manager Login",
+    "id": "bank-manager-login-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/bank/resources/featurefile/bankmanager.feature"
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12355183800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Verify Customer Should Login and logout Successfully",
+        "description": "",
+        "id": "customer-functionality;verify-customer-should-login-and-logout-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 1497590000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7644400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on Home page",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1315260100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on Customer Login Tab",
+            "match": {
+              "location": "MyCustdefs.iClickOnCustomerLoginTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1172502500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I search Customer Created by \"Ron Weasly\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ron Weasly",
+                  "offset": 30
+                }
+              ],
+              "location": "MyCustdefs.iSearchCustomerCreatedBy(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 506833700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on Login Button",
+            "match": {
+              "location": "MyCustdefs.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 259854800,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I verify the LogOut Tab is Displayed",
+            "match": {
+              "location": "MyCustdefs.iVerifyTheLogOutTabIsDisplayed()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10274265500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on Logout",
+            "match": {
+              "location": "MyCustdefs.iClickOnLogout()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 88995500,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I verify Your Name label is Displayed",
+            "match": {
+              "location": "MyCustdefs.iVerifyYourNameLabelIsDisplayed()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12450194100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Verify Customer is Able to Deposit Money Successfully",
+        "description": "",
+        "id": "customer-functionality;verify-customer-is-able-to-deposit-money-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 1706863300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2353600,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I am on Home page",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1218736200,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I click on Customer Login Tab",
+            "match": {
+              "location": "MyCustdefs.iClickOnCustomerLoginTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 955401700,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I search Customer Created by \"Ron Weasly\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ron Weasly",
+                  "offset": 30
+                }
+              ],
+              "location": "MyCustdefs.iSearchCustomerCreatedBy(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 228057600,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I click on Login Button",
+            "match": {
+              "location": "MyCustdefs.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 484150500,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I click on Deposit Tab",
+            "match": {
+              "location": "MyCustdefs.iClickOnDepositTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 664560200,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I enter amount \"100\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "100",
+                  "offset": 16
+                }
+              ],
+              "location": "MyCustdefs.iEnterAmount(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 297195000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I click on Deposit Button",
+            "match": {
+              "location": "MyCustdefs.iClickOnDepositButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 174234300,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I can verify Deposit Successfully Text",
+            "match": {
+              "location": "MyCustdefs.iCanVerifyDepositSuccessfullyText()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Customer Functionality",
+    "description": "\r\nAs a User I want to login and logout and deposit successfully",
+    "id": "customer-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/bank/resources/featurefile/customer.feature"
+  }
+]
